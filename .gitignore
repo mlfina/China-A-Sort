@@ -1,10 +1,10 @@
 *DS_Store
 *.ipynb
-data/*input/chars/*
-data/input/factors/*
-data/input/return/*
+data/*input/chars/*.csv
+data/input/factors/*.csv
+data/input/return/*.csv
 data/output/panel_raw.csv
 data/output/panel_rank.csv
 data/output/cs_vw.pkl
 data/output/cs_ew.pkl
-data/tmp/*
+data/tmp/*.csv
