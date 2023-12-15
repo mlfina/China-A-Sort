@@ -1,5 +1,19 @@
 # China-A-Sort
 
+## Download Data
+
+1. Value-Weighted Sorted Portfolios
+
+    - [univariate-sorted long-short factor](https://github.com/mlfina/China-A-Sort/blob/main/data/output/sorted_portfolio_vw/unifactor_returns.csv
+    - [univariate-sorted portfolios](https://github.com/mlfina/China-A-Sort/blob/main/data/output/sorted_portfolio_vw/unisort_returns.csv)
+    - [bivariate-sorted portfolios](https://github.com/mlfina/China-A-Sort/blob/main/data/output/sorted_portfolio_vw/bisort_returns.csv))
+
+2. Equal-Weighted Sorted Portfolios
+
+    - [univariate-sorted long-short factor](https://github.com/mlfina/China-A-Sort/blob/main/data/output/sorted_portfolio_ew/unifactor_returns.csv
+    - [univariate-sorted portfolios](https://github.com/mlfina/China-A-Sort/blob/main/data/output/sorted_portfolio_ew/unisort_returns.csv)
+    - [bivariate-sorted portfolios](https://github.com/mlfina/China-A-Sort/blob/main/data/output/sorted_portfolio_ew/bisort_returns.csv))
+
 ## Logics
 
 1. Calculate the China A-Share characteristics and returns
