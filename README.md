@@ -31,15 +31,17 @@
 
 ## Execution
 
-    - go to the folder `code` and then run the commanda `sh run.sh`
+    $ cd code
+    $ sh run.sh
 
-    - For example, assume linux user, 
-        - `cd code`
-        - `sh run.sh`
+*notes*:
 
+    - Assume linux user.
+    - Go to the folder `code` and then run the commanda `sh run.sh`
+    
 ## Caveate
 
-This repo provides code for your reference, which is only for academic purposes and is not for commercial use. This repo does not disclose any confidential data or proprietary data. Specifically, this repo does not share the source data or intermediary data. Researcher can use open-source web crawler, or commercial data vendor, e.g. CSMAR, Wind, WRDS, for the input data.*
+This repo provides code for your reference, which is only for academic purposes and is not for commercial use. This repo does not disclose any confidential data or proprietary data. Specifically, this repo does not share the source data or intermediary data. Researcher can use open-source web crawler, or commercial data vendor, e.g. CSMAR, Wind, WRDS, for the input data.
 
 # Contact
 
