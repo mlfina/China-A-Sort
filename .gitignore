@@ -1,7 +1,8 @@
 *DS_Store
 *.ipynb
-data/*input/chars/*.csv
-data/input/factors/*.csv
+data/input/chars/*.csv
+data/input/factors/ch4/*.csv
+data/input/factors/ch4/*.pdf
 data/input/return/*.csv
 data/output/panel_raw.csv
 data/output/panel_rank.csv
