@@ -16,8 +16,8 @@ if not os.path.exists("../data/output/sorted_portfolio_vw"):
     os.mkdir("../data/output/sorted_portfolio_vw")
 if not os.path.exists("../data/output/sorted_portfolio_ew"):
     os.mkdir("../data/output/sorted_portfolio_ew")
-if not os.path.exists("../data/tmp"):
-    os.mkdir("../data/tmp")
+if not os.path.exists("../data/tmp_t2t"):
+    os.mkdir("../data/tmp_t2t")
 
 # returns
 
