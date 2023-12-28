@@ -27,7 +27,7 @@ df = df[['Stkcd','Trdmnt','Mretwd']]
 df.columns = ['asset','date','ret']
 df['date'] = pd.to_datetime(df['date'])  # date formated
 df['date'] = df['date']+MonthEnd(0)      # date is formatted as month end
-df = df[ (df['date']>='2000') & (df['date']<='2020')]
+df = df[ (df['date']>='2000') & (df['date']<='2023')]
 
 df_pivot = pd.pivot(data=df,values='ret', index='date', columns='asset')
 df_pivot = df_pivot.reset_index()
@@ -70,7 +70,7 @@ for char in tqdm(char_list[:51]):
     da['Trdmnt'] = pd.to_datetime(da['Trdmnt'],format='%Y%m')
     da['Trdmnt'] = da['Trdmnt'] + MonthEnd(0)
     da['Trdmnt'] = da['Trdmnt'] + MonthEnd(1)
-    da = da[ (da['Trdmnt']>='2000') & (da['Trdmnt']<='2020')]
+    da = da[ (da['Trdmnt']>='2000') & (da['Trdmnt']<='2023')]
     df_melt = da.melt(id_vars=['Trdmnt'],value_name =char)
     df_melt.columns = ['date','asset',char]
     outputpath="../data/tmp/"+char+".csv"
