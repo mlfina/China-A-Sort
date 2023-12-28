@@ -46,6 +46,7 @@ plt.close()
 
 
 char_list = os.listdir("../data/input/chars")
+char_list = [i if i[-4:]=='.csv' for i in char_list]
 char_list = [i[:-4].lower() for i in char_list]
 char_list.sort()
 print(char_list)
@@ -63,7 +64,7 @@ char_list_new.remove('size')
 char_list_new = ['me']+char_list_new
 char_list_new.sort()
 
-for char in tqdm(char_list[:51]):
+for char in tqdm(char_list):
     print(char)
     da = pd.read_csv("../data/input/chars/"+char+".csv")
     #,encoding='utf8',error_bad_lines=False, engine ='python')
