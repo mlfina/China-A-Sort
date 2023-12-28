@@ -6,6 +6,8 @@ data/input/factors/ch4/*.pdf
 data/input/return/*.csv
 data/output/panel_raw.csv
 data/output/panel_rank.csv
+data/output/panel_raw_t2t.csv
+data/output/panel_rank_t2t.csv
 data/output/cs_vw.pkl
 data/output/cs_ew.pkl
 data/tmp/*.csv
