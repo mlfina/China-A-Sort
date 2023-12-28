@@ -46,7 +46,13 @@ plt.close()
 
 
 char_list = os.listdir("../data/input/chars")
-char_list = [i if i[-4:]=='.csv' for i in char_list]
+tmp = char_list.copy()
+
+char_list = []
+for i in tmp:
+    if i[-4:]=='.csv':
+        char_list.append(i)
+
 char_list = [i[:-4].lower() for i in char_list]
 char_list.sort()
 print(char_list)
