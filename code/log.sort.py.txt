@@ -1,0 +1,1031 @@
+Index(['asset', 'date', 'ret', 'xret', 'lag_me', 'log_me', 'rf_mon', 'mktrf',
+       'VMG', 'SMB',
+       ...
+       'rank_ivg', 'rank_rdm', 'rank_dnco', 'rank_de', 'rank_tv', 'rank_dbe',
+       'rank_oacc', 'rank_ami', 'rank_droa', 'rank_dcoa'],
+      dtype='object', length=111)
+100
+(541879, 107)
+(541879, 107)
+   asset        date       ret  ...  rank_vcf  rank_vdtv  rank_vturn
+0      1  2000-01-31  0.061891  ...  0.000000   0.995327   -0.656542
+1      1  2000-02-29 -0.011333  ...  0.000000   0.995376   -0.766474
+2      1  2000-03-31  0.002729  ...  0.000000   0.974713   -0.942529
+3      1  2000-04-30  0.037017  ...  0.768240   0.977169   -0.940639
+4      1  2000-05-31 -0.055118  ...  0.742489   0.981503   -0.969942
+
+[5 rows x 107 columns]
+########## 
+ Start updating the cross-section data
+Number of Process: 20
+
+ ### Start working on cs ###
+Long High
+### Finish working on cs ### 
+
+
+ ### Start working on ct ###
+Long High
+### Finish working on ct ### 
+
+
+ ### Start working on ivg ###
+Long High
+### Finish working on ivg ### 
+
+
+ ### Start working on m1 ###
+Long Low
+### Finish working on m1 ### 
+
+
+ ### Start working on ch4smb_beta ###
+Long High
+### Finish working on ch4smb_beta ### 
+
+
+ ### Start working on ch4vmg_beta ###
+Long High
+### Finish working on ch4vmg_beta ### 
+
+
+ ### Start working on m11 ###
+Long High
+### Finish working on m11 ### 
+
+
+ ### Start working on m24 ###
+Long Low
+### Finish working on m24 ### 
+
+
+ ### Start working on cta ###
+Long High
+### Finish working on cta ### 
+
+
+ ### Start working on cvd ###
+Long Low
+### Finish working on cvd ### 
+
+
+ ### Start working on m3 ###
+Long High
+### Finish working on m3 ### 
+
+
+ ### Start working on m6 ###
+Long High
+### Finish working on m6 ### 
+
+
+ ### Start working on dbeta ###
+Long Low
+### Finish working on dbeta ### 
+
+
+ ### Start working on dcoa ###
+Long High
+### Finish working on dcoa ### 
+
+
+ ### Start working on mdr ###
+Long Low
+### Finish working on mdr ### 
+
+
+ ### Start working on ndp ###
+Long Low
+### Finish working on ndp ### 
+
+
+ ### Start working on cvturn ###
+Long Low
+### Finish working on cvturn ### 
+
+
+ ### Start working on dbe ###
+Long High
+### Finish working on dbe ### 
+
+
+ ### Start working on m60 ###
+Long Low
+### Finish working on m60 ### 
+
+
+ ### Start working on mchg ###
+Long Low
+### Finish working on mchg ### 
+
+
+ ### Start working on dcol ###
+Long High
+### Finish working on dcol ### 
+
+
+ ### Start working on de ###
+Long Low
+### Finish working on de ### 
+
+
+ ### Start working on noa ###
+Long Low
+### Finish working on noa ### 
+
+
+ ### Start working on oacc ###
+Long Low
+### Finish working on oacc ### 
+
+
+ ### Start working on dfin ###
+Long Low
+### Finish working on dfin ### 
+
+
+ ### Start working on dgs ###
+Long High
+### Finish working on dgs ### 
+
+
+ ### Start working on ocfp ###
+Long High
+### Finish working on ocfp ### 
+
+
+ ### Start working on ol ###
+Long High
+### Finish working on ol ### 
+
+
+ ### Start working on dm ###
+Long High
+### Finish working on dm ### 
+
+
+ ### Start working on dnca ###
+Long Low
+### Finish working on dnca ### 
+
+
+ ### Start working on opa ###
+Long High
+### Finish working on opa ### 
+
+
+ ### Start working on ope ###
+Long High
+### Finish working on ope ### 
+
+
+ ### Start working on dnoa ###
+Long Low
+### Finish working on dnoa ### 
+
+
+ ### Start working on dpia ###
+Long High
+### Finish working on dpia ### 
+
+
+ ### Start working on rdm ###
+Long High
+### Finish working on rdm ### 
+
+
+ ### Start working on rds ###
+Long Low
+### Finish working on rds ### 
+
+
+ ### Start working on dncl ###
+Long High
+### Finish working on dncl ### 
+
+
+ ### Start working on dnco ###
+Long Low
+### Finish working on dnco ### 
+
+
+ ### Start working on oscore ###
+Long High
+### Finish working on oscore ### 
+
+
+ ### Start working on pm ###
+Long High
+### Finish working on pm ### 
+
+
+ ### Start working on me ###
+Long Low
+### Finish working on me ### 
+
+
+ ### Start working on 52w ###
+Long High
+### Finish working on 52w ### 
+
+
+ ### Start working on droa ###
+Long High
+### Finish working on droa ### 
+
+
+ ### Start working on droe ###
+Long High
+### Finish working on droe ### 
+
+
+ ### Start working on rna ###
+Long Low
+### Finish working on rna ### 
+
+
+ ### Start working on roa ###
+Long High
+### Finish working on roa ### 
+
+
+ ### Start working on ala ###
+Long High
+### Finish working on ala ### 
+
+
+ ### Start working on alm ###
+Long High
+### Finish working on alm ### 
+
+
+ ### Start working on dwc ###
+Long Low
+### Finish working on dwc ### 
+
+
+ ### Start working on ebp ###
+Long High
+### Finish working on ebp ### 
+
+
+ ### Start working on season ###
+Long High
+### Finish working on season ### 
+
+
+ ### Start working on sg ###
+Long High
+### Finish working on sg ### 
+
+
+ ### Start working on am ###
+Long High
+### Finish working on am ### 
+
+
+ ### Start working on ami ###
+Long High
+### Finish working on ami ### 
+
+
+ ### Start working on em ###
+Long Low
+### Finish working on em ### 
+
+
+ ### Start working on ep ###
+Long High
+### Finish working on ep ### 
+
+
+ ### Start working on sr ###
+Long High
+### Finish working on sr ### 
+
+
+ ### Start working on sue ###
+Long High
+### Finish working on sue ### 
+
+
+ ### Start working on adm ###
+Long High
+### Finish working on adm ### 
+
+
+ ### Start working on ag ###
+Long High
+### Finish working on ag ### 
+
+
+ ### Start working on dss ###
+Long High
+### Finish working on dss ### 
+
+
+ ### Start working on dtvm ###
+Long Low
+### Finish working on dtvm ### 
+
+
+ ### Start working on sgq ###
+Long High
+### Finish working on sgq ### 
+
+
+ ### Start working on sp ###
+Long High
+### Finish working on sp ### 
+
+
+ ### Start working on abr ###
+Long High
+### Finish working on abr ### 
+
+
+ ### Start working on abturn ###
+Long Low
+### Finish working on abturn ### 
+
+
+ ### Start working on dsa ###
+Long High
+### Finish working on dsa ### 
+
+
+ ### Start working on dsi ###
+Long High
+### Finish working on dsi ### 
+
+
+ ### Start working on roe ###
+Long High
+### Finish working on roe ### 
+
+
+ ### Start working on rs ###
+Long High
+### Finish working on rs ### 
+
+
+ ### Start working on ato ###
+Long Low
+### Finish working on ato ### 
+
+
+ ### Start working on beta ###
+Long Low
+### Finish working on beta ### 
+
+
+ ### Start working on esm ###
+Long Low
+### Finish working on esm ### 
+
+
+ ### Start working on etr ###
+Long Low
+### Finish working on etr ### 
+
+
+ ### Start working on tacc ###
+Long High
+### Finish working on tacc ### 
+
+
+ ### Start working on tan ###
+Long High
+### Finish working on tan ### 
+
+
+ ### Start working on cei ###
+Long Low
+### Finish working on cei ### 
+
+
+ ### Start working on cfp ###
+Long Low
+### Finish working on cfp ### 
+
+
+ ### Start working on idsq ###
+Long Low
+### Finish working on idsq ### 
+
+
+ ### Start working on idvc ###
+Long Low
+### Finish working on idvc ### 
+
+
+ ### Start working on tv ###
+Long Low
+### Finish working on tv ### 
+
+
+ ### Start working on vcf ###
+Long High
+### Finish working on vcf ### 
+
+
+ ### Start working on bm ###
+Long High
+### Finish working on bm ### 
+
+
+ ### Start working on cdi ###
+Long High
+### Finish working on cdi ### 
+
+
+ ### Start working on fscore ###
+Long High
+### Finish working on fscore ### 
+
+
+ ### Start working on gad ###
+Long High
+### Finish working on gad ### 
+
+
+ ### Start working on tbi ###
+Long High
+### Finish working on tbi ### 
+
+
+ ### Start working on tes ###
+Long High
+### Finish working on tes ### 
+
+
+ ### Start working on betadm ###
+Long Low
+### Finish working on betadm ### 
+
+
+ ### Start working on bl ###
+Long Low
+### Finish working on bl ### 
+
+
+ ### Start working on gpa ###
+Long High
+### Finish working on gpa ### 
+
+
+ ### Start working on idsc ###
+Long Low
+### Finish working on idsc ### 
+
+
+ ### Start working on ts ###
+Long Low
+### Finish working on ts ### 
+
+
+ ### Start working on turnm ###
+Long Low
+### Finish working on turnm ### 
+
+
+ ### Start working on ch4mkt_beta ###
+Long High
+### Finish working on ch4mkt_beta ### 
+
+
+ ### Start working on ch4pmo_beta ###
+Long Low
+### Finish working on ch4pmo_beta ### 
+
+
+ ### Start working on ig ###
+Long Low
+### Finish working on ig ### 
+
+
+ ### Start working on indmom ###
+Long Low
+### Finish working on indmom ### 
+
+
+ ### Start working on vdtv ###
+Long Low
+### Finish working on vdtv ### 
+
+
+ ### Start working on vturn ###
+Long Low
+### Finish working on vturn ### 
+
+total time (s)= 149.87197828292847
+########## 
+ Finish the cross-section data 
+ ##########
+########## 
+ Start updating the cross-section data
+Number of Process: 20
+
+ ### Start working on ch4smb_beta ###
+Long High
+### Finish working on ch4smb_beta ### 
+
+
+ ### Start working on ch4vmg_beta ###
+Long High
+### Finish working on ch4vmg_beta ### 
+
+
+ ### Start working on ivg ###
+Long High
+### Finish working on ivg ### 
+
+
+ ### Start working on m1 ###
+Long Low
+### Finish working on m1 ### 
+
+
+ ### Start working on cs ###
+Long Low
+### Finish working on cs ### 
+
+
+ ### Start working on ct ###
+Long High
+### Finish working on ct ### 
+
+
+ ### Start working on m11 ###
+Long High
+### Finish working on m11 ### 
+
+
+ ### Start working on m24 ###
+Long Low
+### Finish working on m24 ### 
+
+
+ ### Start working on dfin ###
+Long High
+### Finish working on dfin ### 
+
+
+ ### Start working on dgs ###
+Long High
+### Finish working on dgs ### 
+
+
+ ### Start working on mdr ###
+Long Low
+### Finish working on mdr ### 
+
+
+ ### Start working on ndp ###
+Long Low
+### Finish working on ndp ### 
+
+
+ ### Start working on cta ###
+Long High
+### Finish working on cta ### 
+
+
+ ### Start working on cvd ###
+Long Low
+### Finish working on cvd ### 
+
+
+ ### Start working on m60 ###
+Long Low
+### Finish working on m60 ### 
+
+
+ ### Start working on mchg ###
+Long Low
+### Finish working on mchg ### 
+
+
+ ### Start working on cvturn ###
+Long Low
+### Finish working on cvturn ### 
+
+
+ ### Start working on dbe ###
+Long High
+### Finish working on dbe ### 
+
+
+ ### Start working on m3 ###
+Long Low
+### Finish working on m3 ### 
+
+
+ ### Start working on m6 ###
+Long Low
+### Finish working on m6 ### 
+
+
+ ### Start working on dm ###
+Long High
+### Finish working on dm ### 
+
+
+ ### Start working on dnca ###
+Long High
+### Finish working on dnca ### 
+
+
+ ### Start working on noa ###
+Long Low
+### Finish working on noa ### 
+
+
+ ### Start working on oacc ###
+Long Low
+### Finish working on oacc ### 
+
+
+ ### Start working on dnoa ###
+Long Low
+### Finish working on dnoa ### 
+
+
+ ### Start working on dpia ###
+Long High
+### Finish working on dpia ### 
+
+
+ ### Start working on rdm ###
+Long High
+### Finish working on rdm ### 
+
+
+ ### Start working on rds ###
+Long High
+### Finish working on rds ### 
+
+
+ ### Start working on dcol ###
+Long High
+### Finish working on dcol ### 
+
+
+ ### Start working on de ###
+Long Low
+### Finish working on de ### 
+
+
+ ### Start working on opa ###
+Long High
+### Finish working on opa ### 
+
+
+ ### Start working on ope ###
+Long Low
+### Finish working on ope ### 
+
+
+ ### Start working on dbeta ###
+Long High
+### Finish working on dbeta ### 
+
+
+ ### Start working on dcoa ###
+Long High
+### Finish working on dcoa ### 
+
+
+ ### Start working on oscore ###
+Long High
+### Finish working on oscore ### 
+
+
+ ### Start working on pm ###
+Long High
+### Finish working on pm ### 
+
+
+ ### Start working on me ###
+Long Low
+### Finish working on me ### 
+
+
+ ### Start working on 52w ###
+Long High
+### Finish working on 52w ### 
+
+
+ ### Start working on droa ###
+Long High
+### Finish working on droa ### 
+
+
+ ### Start working on droe ###
+Long High
+### Finish working on droe ### 
+
+
+ ### Start working on rna ###
+Long High
+### Finish working on rna ### 
+
+
+ ### Start working on roa ###
+Long High
+### Finish working on roa ### 
+
+
+ ### Start working on dncl ###
+Long Low
+### Finish working on dncl ### 
+
+
+ ### Start working on dnco ###
+Long High
+### Finish working on dnco ### 
+
+
+ ### Start working on ocfp ###
+Long High
+### Finish working on ocfp ### 
+
+
+ ### Start working on ol ###
+Long High
+### Finish working on ol ### 
+
+
+ ### Start working on ala ###
+Long High
+### Finish working on ala ### 
+
+
+ ### Start working on alm ###
+Long High
+### Finish working on alm ### 
+
+
+ ### Start working on dss ###
+Long High
+### Finish working on dss ### 
+
+
+ ### Start working on dtvm ###
+Long Low
+### Finish working on dtvm ### 
+
+
+ ### Start working on season ###
+Long High
+### Finish working on season ### 
+
+
+ ### Start working on sg ###
+Long High
+### Finish working on sg ### 
+
+
+ ### Start working on adm ###
+Long High
+### Finish working on adm ### 
+
+
+ ### Start working on ag ###
+Long High
+### Finish working on ag ### 
+
+
+ ### Start working on dsa ###
+Long High
+### Finish working on dsa ### 
+
+
+ ### Start working on dsi ###
+Long High
+### Finish working on dsi ### 
+
+
+ ### Start working on roe ###
+Long High
+### Finish working on roe ### 
+
+
+ ### Start working on rs ###
+Long High
+### Finish working on rs ### 
+
+
+ ### Start working on am ###
+Long High
+### Finish working on am ### 
+
+
+ ### Start working on ami ###
+Long High
+### Finish working on ami ### 
+
+
+ ### Start working on dwc ###
+Long Low
+### Finish working on dwc ### 
+
+
+ ### Start working on ebp ###
+Long High
+### Finish working on ebp ### 
+
+
+ ### Start working on sgq ###
+Long High
+### Finish working on sgq ### 
+
+
+ ### Start working on sp ###
+Long High
+### Finish working on sp ### 
+
+
+ ### Start working on bm ###
+Long High
+### Finish working on bm ### 
+
+
+ ### Start working on cdi ###
+Long High
+### Finish working on cdi ### 
+
+
+ ### Start working on idsq ###
+Long Low
+### Finish working on idsq ### 
+
+
+ ### Start working on idvc ###
+Long Low
+### Finish working on idvc ### 
+
+
+ ### Start working on tv ###
+Long Low
+### Finish working on tv ### 
+
+
+ ### Start working on vcf ###
+Long High
+### Finish working on vcf ### 
+
+
+ ### Start working on abr ###
+Long High
+### Finish working on abr ### 
+
+
+ ### Start working on abturn ###
+Long Low
+### Finish working on abturn ### 
+
+
+ ### Start working on em ###
+Long Low
+### Finish working on em ### 
+
+
+ ### Start working on ep ###
+Long High
+### Finish working on ep ### 
+
+
+ ### Start working on sr ###
+Long Low
+### Finish working on sr ### 
+
+
+ ### Start working on sue ###
+Long High
+### Finish working on sue ### 
+
+
+ ### Start working on betadm ###
+Long Low
+### Finish working on betadm ### 
+
+
+ ### Start working on bl ###
+Long Low
+### Finish working on bl ### 
+
+
+ ### Start working on esm ###
+Long Low
+### Finish working on esm ### 
+
+
+ ### Start working on etr ###
+Long Low
+### Finish working on etr ### 
+
+
+ ### Start working on tacc ###
+Long High
+### Finish working on tacc ### 
+
+
+ ### Start working on tan ###
+Long High
+### Finish working on tan ### 
+
+
+ ### Start working on cei ###
+Long Low
+### Finish working on cei ### 
+
+
+ ### Start working on cfp ###
+Long Low
+### Finish working on cfp ### 
+
+
+ ### Start working on gpa ###
+Long High
+### Finish working on gpa ### 
+
+
+ ### Start working on idsc ###
+Long Low
+### Finish working on idsc ### 
+
+
+ ### Start working on ts ###
+Long Low
+### Finish working on ts ### 
+
+
+ ### Start working on turnm ###
+Long Low
+### Finish working on turnm ### 
+
+
+ ### Start working on ato ###
+Long Low
+### Finish working on ato ### 
+
+
+ ### Start working on beta ###
+Long Low
+### Finish working on beta ### 
+
+
+ ### Start working on fscore ###
+Long High
+### Finish working on fscore ### 
+
+
+ ### Start working on gad ###
+Long High
+### Finish working on gad ### 
+
+
+ ### Start working on tbi ###
+Long High
+### Finish working on tbi ### 
+
+
+ ### Start working on tes ###
+Long High
+### Finish working on tes ### 
+
+
+ ### Start working on ch4mkt_beta ###
+Long High
+### Finish working on ch4mkt_beta ### 
+
+
+ ### Start working on ch4pmo_beta ###
+Long Low
+### Finish working on ch4pmo_beta ### 
+
+
+ ### Start working on ig ###
+Long High
+### Finish working on ig ### 
+
+
+ ### Start working on indmom ###
+Long High
+### Finish working on indmom ### 
+
+
+ ### Start working on vdtv ###
+Long Low
+### Finish working on vdtv ### 
+
+
+ ### Start working on vturn ###
+Long Low
+### Finish working on vturn ### 
+
+total time (s)= 792.4977071285248
+########## 
+ Finish the cross-section data 
+ ##########
