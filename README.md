@@ -45,7 +45,7 @@ This repo provides code for your reference, which is only for academic purposes 
 
 # Contact
 
-The contributer is open to any academic discussion and collaboration.
+The contributers are open to any academic discussion and collaboration.
 
 Xin He
 
